@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/kingpin/sting"
+	"$bumpmap" "models/kingpin/sting_normal"
+}
