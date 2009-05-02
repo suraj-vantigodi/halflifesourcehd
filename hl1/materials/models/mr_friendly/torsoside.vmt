@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mr_friendly/torsoside"
+	"$bumpmap" "models/mr_friendly/torsoside_normal"
+}

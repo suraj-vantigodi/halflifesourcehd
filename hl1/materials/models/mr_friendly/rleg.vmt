@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mr_friendly/rleg"
+	"$bumpmap" "models/mr_friendly/rleg_normal"
+}
