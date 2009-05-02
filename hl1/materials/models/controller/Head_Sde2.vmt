@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/controller/Head_Sde2"
+	"$bumpmap" "models/controller/Head_Sde2_normal"
+}

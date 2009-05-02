@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$baseTexture" "models\chumtoad\CHB_Side1"
+	"$bumpmap" "models\chumtoad\CHB_Side1_normal"
+}
