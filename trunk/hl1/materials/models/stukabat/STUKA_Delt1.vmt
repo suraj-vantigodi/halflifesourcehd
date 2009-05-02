@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stukabat/STUKA_Delt1"
+	"$bumpmap" "models/stukabat/STUKA_Delt1_normal"
+}
