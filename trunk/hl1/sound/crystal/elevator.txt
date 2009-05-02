@@ -1,0 +1,3 @@
+"doors/doormove7.wav"	"crystal/up.wav"
+"plats/talkmove1.wav"	"crystal/platmove1.wav"
+"plats/talkstop1.wav"	"crystal/platstop1.wav"
