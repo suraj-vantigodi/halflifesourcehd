@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/controller/C_Finger1"
+	"$bumpmap" "models/controller/C_Finger1_normal"
+}

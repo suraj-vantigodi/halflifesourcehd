@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/controller/C_Lid-Fnt1"
+	"$bumpmap" "models/controller/C_Lid-Fnt1_normal"
+}
