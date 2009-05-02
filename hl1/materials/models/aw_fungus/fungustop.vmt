@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/aw_fungus/fungustop"
+	"$bumpmap" "models/aw_fungus/fungustop_normal"
+}

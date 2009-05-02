@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/aw_light/lightside"
+	"$bumpmap" "models/aw_light/lightside_normal"
+}
