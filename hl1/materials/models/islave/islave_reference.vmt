@@ -1,0 +1,8 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$baseTexture" "models\islave/islave_reference"
+	"$bumpmap" "models\islave/islave_reference_normal"
+	"$multipass" 1
+}
