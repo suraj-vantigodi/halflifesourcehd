@@ -1,0 +1,5 @@
+"VertexLitgeneric"
+{
+"$model" 1
+	"$basetexture" "models/osprey/PC_osprey_body"
+}
