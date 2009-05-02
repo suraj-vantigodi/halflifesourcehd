@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/kingpin/tailback"
+	"$bumpmap" "models/kingpin/tailback_normal"
+}

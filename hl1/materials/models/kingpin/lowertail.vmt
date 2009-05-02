@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/kingpin/lowertail"
+	"$bumpmap" "models/kingpin/lowertail_normal"
+}
