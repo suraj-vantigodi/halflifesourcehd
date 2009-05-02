@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/hassassin/front of large pouch"
+	"$bumpmap" "models/hassassin/front of large pouch_normal"
+}

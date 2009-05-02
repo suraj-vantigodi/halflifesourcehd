@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/hassassin/gogglefront"
+	"$bumpmap" "models/hassassin/gogglefront_normal"
+}
