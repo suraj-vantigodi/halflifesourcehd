@@ -1,0 +1,5 @@
+"VertexLitGeneric_dx6"
+{
+	"$baseTexture" "models/v_crowbar/HEV_Glove"
+	"$bumpmap" "models\v_crowbar/HEV_Glove_normal"
+}

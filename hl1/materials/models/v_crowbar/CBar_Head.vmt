@@ -1,0 +1,9 @@
+"VertexLitGeneric_dx6"
+{
+	"$baseTexture" "models/v_crowbar/CBar_Head"
+	"$bumpmap" "models\v_crowbar/CBar_Head_normal"
+	"$translucent" 1
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	"$halflambert" 1
+}
