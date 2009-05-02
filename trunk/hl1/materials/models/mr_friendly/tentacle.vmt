@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mr_friendly/tentacle"
+	"$bumpmap" "models/mr_friendly/tentacle_normal"
+}

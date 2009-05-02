@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mr_friendly/face"
+	"$bumpmap" "models/mr_friendly/face_normal"
+}

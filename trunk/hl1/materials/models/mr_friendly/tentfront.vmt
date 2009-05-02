@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mr_friendly/tentfront"
+	"$bumpmap" "models/mr_friendly/tentfront_normal"
+}
