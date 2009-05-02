@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/archer/ARCH_Eyes(Blink2)"
+	"$bumpmap" "models/archer/ARCH_Eyes(Blink2)_normal"
+}

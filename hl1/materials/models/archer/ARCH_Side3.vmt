@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/archer/ARCH_Side3"
+	"$bumpmap" "models/archer/ARCH_Side3_normal"
+}

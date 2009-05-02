@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/v_python_HD/1"
+	"$bumpmap" "models/v_python_HD/1_normal"
+	 "$phong" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+}
