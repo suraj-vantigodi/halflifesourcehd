@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\w_357ammobox/w_python_ammo"
+ "$bumpmap" "models\w_357ammobox/w_python_ammo_normal"
+"$model" 1
+        "$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.2"	
+	"$phongfresnelranges"	"[0.7 1.5 3]"
+	"$halflambert" "1"
+         "$phongalbedotint" "1"
+}
+
+
