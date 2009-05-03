@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\zombie/Zombie_chomper"
+	"$bumpmap" "models\zombie/Zombie_chomper_normal"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}
