@@ -1,2 +1,0 @@
-"doors/doormove1.wav"	"crystal/open.wav"
-"buttons/button2.wav"	"crystal/lock.wav"
