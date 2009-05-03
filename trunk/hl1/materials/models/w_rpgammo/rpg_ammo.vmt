@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\w_rpgammo/rpg_ammo"
+        "$bumpmap" "models\w_rpgammo/rpg_ammo_normal"
+"$model" 1
+        "$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.3"	
+	"$phongfresnelranges"	"[0.7 1.5 3]"
+	"$halflambert" "1"
+         "$phongalbedotint" "1"
+}
+
