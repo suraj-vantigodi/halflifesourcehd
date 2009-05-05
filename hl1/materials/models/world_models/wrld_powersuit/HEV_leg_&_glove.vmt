@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\world_models\wrld_powersuit/HEV_leg_&_glove"
+	"$bumpmap" "models\world_models\wrld_powersuit/HEV_leg_&_glove_normal"
+}

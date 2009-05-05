@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\world_models\wrld_powersuit/Gordon_head"
+	"$bumpmap" "models\world_models\wrld_powersuit/Gordon_head_normal"
+}

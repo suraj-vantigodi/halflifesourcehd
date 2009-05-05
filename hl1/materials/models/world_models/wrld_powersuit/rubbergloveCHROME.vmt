@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\world_models\wrld_powersuit/rubbergloveCHROME"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0"
+	"$basealphaenvmapmask" 1
+}
