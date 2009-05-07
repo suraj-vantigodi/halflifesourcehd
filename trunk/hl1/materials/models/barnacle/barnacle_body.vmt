@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/barnacle/barnacle_body"
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+}
