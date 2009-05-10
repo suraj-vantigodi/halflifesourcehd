@@ -2,4 +2,5 @@
 {
 	"$baseTexture" "models\apache\APCHE_BladesRemapped"
 	"$translucent" 1
+	"$nodecal" 1
 }
