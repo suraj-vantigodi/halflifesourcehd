@@ -1,5 +1,0 @@
-"Vertexlitgeneric"
-{
-	"$baseTexture" "models\gonome\gonome_arms"
-	"$bumpmap" "models\gonome/gonome_arms_normal"
-}

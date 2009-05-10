@@ -1,7 +1,4 @@
 "VertexLitGeneric"
 {
 	"$basetexture" "models/v_python_HD/gordon_glove"
-	"bump" 1
-	"$bumpmap" "models/v_python_HD/gordon_glove_normal"
-	"$translucent" 1
 }
