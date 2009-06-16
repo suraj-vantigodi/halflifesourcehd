@@ -2,6 +2,7 @@
 {
 	"$baseTexture" "models\apache\APCHE_BladesRemapped2"
 	"$additive" 1
+	"$nodecal" "1"
 
   "Proxies" 
        { 
