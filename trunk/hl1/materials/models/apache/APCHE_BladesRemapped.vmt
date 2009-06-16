@@ -1,5 +1,15 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "models\apache\APCHE_BladesRemapped"
+	"$baseTexture" "models\apache\APCHE_BladesRemapped2"
 	"$additive" 1
-}
+
+  "Proxies" 
+       { 
+         "AnimatedTexture" 
+         { 
+            "animatedTextureVar" "$basetexture" 
+            "animatedTextureFrameNumVar" "$frame" 
+            "animatedTextureFrameRate" "20" 
+         }
+    } 
+ }
