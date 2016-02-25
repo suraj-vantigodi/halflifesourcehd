@@ -1,0 +1,1 @@
+Adds a new feel to the Half-Life: Source game with high resolution models and materials.
